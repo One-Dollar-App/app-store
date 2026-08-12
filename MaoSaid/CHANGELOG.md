@@ -1,5 +1,12 @@
 # Mao Said Privacy Policy Changelog
 
+## 2026-08-12
+
+- Updated the policy for the expanded offline reference-library experience.
+- Documented local favorites, recent-reading identifiers, and personal notes.
+- Documented optional use of the iOS system share sheet and clarified that personal notes are never included.
+- Clarified operating-system backup behavior and confirmed that the app has no analytics, advertising, tracking, or crash-reporting SDKs.
+
 ## 2026-06-11
 
 - Published the Mao Said privacy policy under `MaoSaid/`.
